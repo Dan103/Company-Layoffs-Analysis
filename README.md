@@ -1,8 +1,5 @@
 # Company Layoffs Analysis - [Dashboard Link](https://public.tableau.com/app/profile/danylo.butynskyy/viz/LayoffAnalysisAcrossCompanies/LayoffsDashboard)
 
-
-# Company Layoffs Analysis
-
 ## Inhaltsverzeichnis
 1. [Projektübersicht](#projektübersicht)  
 2. [Motivation](#motivation)  
